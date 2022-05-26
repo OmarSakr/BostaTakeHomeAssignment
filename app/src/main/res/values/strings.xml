@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BostaTakeHomeAssignment</string>
+    <string name="profile">Profile</string>
+    <string name="albums">Albums</string>
+    <string name="searchImages">Search images…</string>
+    <string name="albumImage">Album image</string>
+    <string name="share">share</string>
+    <string name="pleaseMakeSureToConnectToInternet">Please, Make sure to connect to internet</string>
+</resources>
